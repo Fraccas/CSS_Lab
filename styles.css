@@ -1,0 +1,90 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
+
+h1 {
+    color: black;
+}
+
+.original {
+    color: blue;
+}
+
+.additional {
+    color: red;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: violet;
+}
+
+a:hover {
+    color: blue;
+    font-weight: bold;
+}
+
+ul {
+    color: yellow;
+}
+
+.star {
+    color: blue;
+}
+
+#wars {
+    color: green;
+}
+
+span {
+    color: purple;
+    font-weight: bold
+}
+
+.boxes {
+    background-color: yellow;
+    margin: 1em;
+    padding: 1em;
+    border: 1px solid Black;
+    border-radius: 1em;
+    width: 30em;
+    display: block;
+}
+
+.bimage {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 5em;
+}
+
+#rank1 {
+    color: blue;
+}
+
+#rank2 {
+    color: red;
+}
+
+#rank3 {
+    color: yellow;
+}
+
+#rank4 {
+    color: purple;
+}
+
+#rank5 {
+    color: green;
+}
+
+.listdiv {
+    border: 2px solid black;
+}
